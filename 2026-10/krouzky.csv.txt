@@ -1,0 +1,5 @@
+id_krouzku;nazev;vedouci;den;cas;mistnost;cena_kc
+1;Robotika;Mgr. Horák;čt;14:00;13;600
+2;Fotografie;Veselá;út;13:00;210;450
+3;Šachy;Ing. Beneš;pá;14:30;207;300
+4;3D tisk;Bc. Černý;st;14:00;13;500
